@@ -1,1 +1,1 @@
-# learning__astro
+# astro-projects
